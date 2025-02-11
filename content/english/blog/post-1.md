@@ -1,5 +1,5 @@
 ---
-title: "Adversus is a web-based dialer and practical CRM solution"
+title: "Service #1"
 date: 2020-08-18T10:07:21+06:00
 # post image
 image: "images/blog/post-1.jpg"

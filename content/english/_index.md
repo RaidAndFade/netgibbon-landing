@@ -1,49 +1,44 @@
 ---
-####################### Banner #########################
+####################### Banner - Have to figure out how the image will pop out #########################
 banner:
-  title : "Let us solve your critical website <br> development challenges"
-  image : "images/banner-art.svg"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus"
-  button:
-    enable : true
-    label : "Contact Us"
-    link : "contact/"
+  image : "images/bannerngl.png"
+  title : "Network Gibbon LLC Services"
+  content : "At NGL, we provide reliable network and system administration services to keep your business secure and efficient. Your Network. Our Expertise."
 
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "Something You Need To Know"
+  title : "What We Do"
   feature_item:
     # feature item loop
-    - name : "Clean Code"
+    - name : "9-5 Service"
       icon : "fas fa-code"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
-    - name : "Object Oriented"
+    - name : "Fast Response"
       icon : "fas fa-object-group"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
-    - name : "24h Service"
+    - name : "Value for Money"
       icon : "fas fa-user-clock"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
-    - name : "Value For Money"
+    - name : "Flexibility"
       icon : "fas fa-heart"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
-    - name : "Faster Response"
+    - name : "Putting your needs 1st"
       icon : "fas fa-tachometer-alt"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
-    - name : "Cloud Support"
+    - name : "???"
       icon : "fas fa-cloud"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-
 
 
 ######################### Service #####################
@@ -51,7 +46,7 @@ service:
   enable : true
   service_item:
     # service item loop
-    - title : "It is the most advanced digital marketing and it company."
+    - title : "Why Us?"
       images:
       - "images/service-1.png"
       - "images/service-2.png"
@@ -72,9 +67,9 @@ screenshot:
 ##################### Call to action #####################
 call_to_action:
   enable : true
-  title : "Ready to get started?"
+  title : "Want to get started?"
   image : "images/cta.svg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
+  content : "If you need help setting up, or just have a few questions, We can help you out with just a few clicks."
   button:
     enable : true
     label : "Contact Us"
