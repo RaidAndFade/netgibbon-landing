@@ -3,42 +3,46 @@
 banner:
   image : "images/bannerngl.png"
   title : "Network Gibbon LLC Services"
-  content : "At NGL, we provide reliable network and system administration services to keep your business secure and efficient. Your Network. Our Expertise."
+  content : "At NGL, we provide reliable network and system administration services to keep your systems (business) secure and efficient. Your Network. Our Expertise."
+  button:
+    enable: true
+    label: "Contact Us"
+    link: "contact/"
 
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "What We Do"
+  title : "Our values"
   feature_item:
     # feature item loop
-    - name : "9-5 Service"
+    - name : "24/7 Service"
       icon : "fas fa-code"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "Always available to help solve your problems and questions."
       
     # feature item loop
     - name : "Fast Response"
       icon : "fas fa-object-group"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "Because your time is as valuable as your business."
       
     # feature item loop
     - name : "Value for Money"
       icon : "fas fa-user-clock"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "Premium quality without the premium price."
       
     # feature item loop
-    - name : "Flexibility"
+    - name : "Catered Towards Your Needs"
       icon : "fas fa-heart"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "No matter what twist or turn, we deliver."
       
     # feature item loop
-    - name : "Putting your needs 1st"
+    - name : "Reliable Support & Maintenance"
       icon : "fas fa-tachometer-alt"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "Always here, always ready. Dependable support and maintenance to keep your business running smoothly."
       
     # feature item loop
-    - name : "???"
+    - name : "Fast Integration"
       icon : "fas fa-cloud"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "No time wasted to get your system running ASAP."
 
 
 ######################### Service #####################
@@ -51,13 +55,14 @@ service:
       - "images/service-1.png"
       - "images/service-2.png"
       - "images/service-3.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "Why us? Because we don’t just manage your systems—we optimize, secure, and future-proof them, delivering seamless IT solutions tailored to your unique needs. Our flexible approach ensures we adapt to your business goals, providing the exact support and expertise you require, so you can focus on growing your business without missing a beat."
       button:
         enable : true
-        label : "Check it out"
-        link : "#"
+        label : "Our Services"
+        link : "blog/"
 
-################### Screenshot ########################
+
+################### Screenshot  - where does it show up? ########################
 screenshot:
   enable : false
   title : "Experience the best <br> workflow with us"
@@ -69,7 +74,7 @@ call_to_action:
   enable : true
   title : "Want to get started?"
   image : "images/cta.svg"
-  content : "If you need help setting up, or just have a few questions, We can help you out with just a few clicks."
+  content : "If you need help setting up, or just have a few questions, we can help you out with just a few clicks."
   button:
     enable : true
     label : "Contact Us"

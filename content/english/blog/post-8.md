@@ -1,5 +1,5 @@
 ---
-title: "What to consider before starting a business – Inside The Studio"
+title: "Service #8"
 date: 2021-01-18T10:07:21+06:00
 # post image
 image: "images/blog/post-5.jpg"
