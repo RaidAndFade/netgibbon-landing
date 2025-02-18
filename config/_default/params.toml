@@ -1,15 +1,15 @@
 #################### default parameters ################################
 # favicon
-favicon = "images/favicon.png"
+favicon = "images/NGL_Logo.png"
 # logo
-logo = "images/logo.png"
+logo = "images/NGL_Logo.png"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
-logo_width = "180px"
+logo_width = "160px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "Bigspring"
+logo_text = "Network Gibbon"
 # theme-mode
 theme_switcher = true
 theme_default = "system" # available options [light/dark/system]
@@ -27,7 +27,7 @@ google_tag_manager = "" # example: G-XXXXXXXXXX
 custom_script = ""
 # copyright
 theme_copyright = true
-copyright = "Copyright by your company"
+copyright = "Copyright by Network Gibbon LLC"
 
 # preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
@@ -99,20 +99,20 @@ content = "This site uses cookies. By continuing to use this website, you agree 
 button = "I Accept"
 
 ############################# social site ########################
-[[social]]
-title = "facebook"
-icon = "fab fa-facebook" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#!"
+#[[social]]
+#title = "facebook"
+#icon = "fab fa-facebook" # fontawesome icon pack : https://fontawesome.com/icons/
+#link = "#!"
 
-[[social]]
-title = "twitter"
-icon = "fab fa-twitter" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#!"
+#[[social]]
+#title = "twitter"
+#icon = "fab fa-twitter" # fontawesome icon pack : https://fontawesome.com/icons/
+#link = "#!"
 
-[[social]]
-title = "instagram"
-icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#!"
+#[[social]]
+#title = "instagram"
+#icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
+#link = "#!"
 
 [[social]]
 title = "github"

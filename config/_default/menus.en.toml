@@ -23,14 +23,16 @@ url = "#"
 name = "Quick Start"
 url = "#"
 
-[[footer_middle]]
-name = "Platform"
-url = "#"
+# footer menu middle
+#[[footer_middle]]
+#name = "Platform"
+#url = "#"
 
 [[footer_middle]]
 name = "Features"
 url = "#"
 
+# footer menu right
 [[footer_right]]
 name = "FAQ"
 url = "/faq"
