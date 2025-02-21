@@ -6,6 +6,6 @@ weight = 1
 [en.params]
 ########### footer content ##########
 footer_menu_left = "Company"
-footer_menu_middle = "Products"
-footer_menu_right = "Support"
-footer_content = "Follow us on:"
+#footer_menu_middle = "Products"
+footer_menu_right = "Contact"
+footer_content = "Location: Maryland, USA"

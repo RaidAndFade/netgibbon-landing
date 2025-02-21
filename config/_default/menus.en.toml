@@ -5,9 +5,9 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "Blog"
-url = "/blog"
-weight = 2
+#name = "Blog"
+#url = "/blog"
+#weight = 2
 
 [[main]]
 name = "Contact"
@@ -20,19 +20,19 @@ name = "About Us"
 url = "#"
 
 [[footer_left]]
-name = "Quick Start"
-url = "#"
+#name = "Quick Start"
+#url = "#"
 
 # footer menu middle
-#[[footer_middle]]
+[[footer_middle]]
 #name = "Platform"
 #url = "#"
 
 [[footer_middle]]
-name = "Features"
-url = "#"
+#name = "Features"
+#url = "#"
 
 # footer menu right
 [[footer_right]]
-name = "FAQ"
-url = "/faq"
+name = "Contact Us"
+url = "/contact"

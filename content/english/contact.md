@@ -12,6 +12,4 @@ layout: "contact"
 Because we don’t just manage your systems—we optimize, secure, and future-proof them, delivering tailored IT solutions that adapt to your unique business needs. Let us handle the complexities of IT with flexible, reliable support, so you can focus on growing your business with peace of mind.
 
 ---
-* **Phone: +1 (888) 996-8975 (????)** 
-* **Mail: ________________.com**
 * **Location: Maryland, USA**

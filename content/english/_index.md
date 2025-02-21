@@ -53,8 +53,8 @@ service:
     - title : "Why Us?"
       images:
       - "images/NGL_WebsiteIcons_Goal.png"
-      - "images/service-2.png"
-      - "images/service-3.png"
+      #- "images/service-2.png"
+      #- "images/service-3.png"
       content : "Why us? Because we don’t just manage your systems—we optimize, secure, and future-proof them, delivering seamless IT solutions tailored to your unique needs. Our flexible approach ensures we adapt to your business goals, providing the exact support and expertise you require, so you can focus on growing your business without missing a beat."
       #button:
         #enable : true
